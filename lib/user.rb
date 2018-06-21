@@ -5,7 +5,7 @@ class User
   KNOWLEDGE
   
   def teach
-    KNOWLEDGE.sample
+    puts KNOWLEDGE.sample
   end
   
 end
